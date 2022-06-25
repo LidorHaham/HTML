@@ -1,0 +1,47 @@
+.pic {
+	width:500;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.body{
+	background-image: url("pics/12.jpg");
+	font-family: Arial;
+}
+.back{
+background-image: url("pics/19.jpg");
+}
+.color {
+	color: black;
+}
+.white{
+	color: white;
+}
+.mFont{
+	font-size: 30px;
+}
+.BigFont{
+	font-size: 50px;
+}
+
+span{
+font-family: 'Lobster', cursive;
+font-size: 30px;
+}
+.polaroid {
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20px;
+
+}
+
+.border{
+  border: 5px solid white;
+  border-radius: 8px;
+}
